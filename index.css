@@ -1,0 +1,23 @@
+a:link, a:visited {
+  background-color: #0066cc;
+  color: white;
+  padding: 30px 198px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #0099ff;
+}
+body {
+	font-family: verdana;
+	text-align: center;
+}
+#sturgex {
+	font-size: 60px;	
+} 
+#undrconst {
+	border: 5px solid #bfbfbf;
+	background-color: #8c8c8c;
+}
