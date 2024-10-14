@@ -13,6 +13,7 @@ a:hover, a:active {
 body {
 	font-family: verdana;
 	text-align: center;
+	background-color: #e6e6e6;
 }
 #sturgex {
 	font-size: 60px;	
