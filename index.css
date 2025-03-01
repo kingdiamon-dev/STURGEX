@@ -1,4 +1,4 @@
-a:link, a:visited {
+ .tabs a:link, .tabs a:visited {
   background-color: #0066cc;
   color: white;
   padding: 40px 150px;
@@ -7,7 +7,7 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+ .tabs a:hover, .tabs a:active {
   background-color: #0099ff;
 }
 body {
@@ -21,9 +21,4 @@ body {
 #undrconst {
 	border: 5px solid #bfbfbf;
 	background-color: #8c8c8c;
-}
-#clicktogohome:link, #clicktogohome:visited {
-	color: blue;
-	background-color: transparent;
-	text-decoration: underline;
 }
