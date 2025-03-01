@@ -1,7 +1,7 @@
 a:link, a:visited {
   background-color: #0066cc;
   color: white;
-  padding: 30px 198px;
+  padding: 40px 150px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -21,4 +21,9 @@ body {
 #undrconst {
 	border: 5px solid #bfbfbf;
 	background-color: #8c8c8c;
+}
+#clicktogohome:link, #clicktogohome:visited {
+	color: blue;
+	background-color: transparent;
+	text-decoration: underline;
 }
